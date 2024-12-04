@@ -15,7 +15,8 @@
 ## 权限介绍
 
 * [总体权限设计](quan-xian-jie-shao/zong-ti-quan-xian-she-ji.md)
-* [身份标识及认证](quan-xian-jie-shao/shen-fen-biao-shi-ji-ren-zheng.md)
+* [身份认证](quan-xian-jie-shao/shen-fen-ren-zheng.md)
+* [身份认证](quan-xian-jie-shao/shen-fen-ren-zheng-1.md)
 
 ## 用户管理
 
